@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/masterdxb.github.com/swapi_front/static/css/main.4d31344a.chunk.css",
+    "main.js": "/masterdxb.github.com/swapi_front/static/js/main.55270523.chunk.js",
+    "main.js.map": "/masterdxb.github.com/swapi_front/static/js/main.55270523.chunk.js.map",
+    "runtime-main.js": "/masterdxb.github.com/swapi_front/static/js/runtime-main.876a0b44.js",
+    "runtime-main.js.map": "/masterdxb.github.com/swapi_front/static/js/runtime-main.876a0b44.js.map",
+    "static/js/2.5aa48b63.chunk.js": "/masterdxb.github.com/swapi_front/static/js/2.5aa48b63.chunk.js",
+    "static/js/2.5aa48b63.chunk.js.map": "/masterdxb.github.com/swapi_front/static/js/2.5aa48b63.chunk.js.map",
+    "index.html": "/masterdxb.github.com/swapi_front/index.html",
+    "precache-manifest.6778b004325b66015b62a7fa7f40d9dc.js": "/masterdxb.github.com/swapi_front/precache-manifest.6778b004325b66015b62a7fa7f40d9dc.js",
+    "service-worker.js": "/masterdxb.github.com/swapi_front/service-worker.js",
+    "static/css/main.4d31344a.chunk.css.map": "/masterdxb.github.com/swapi_front/static/css/main.4d31344a.chunk.css.map",
+    "static/js/2.5aa48b63.chunk.js.LICENSE.txt": "/masterdxb.github.com/swapi_front/static/js/2.5aa48b63.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/masterdxb.github.com/swapi_front/static/media/logo.17105726.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.876a0b44.js",
+    "static/js/2.5aa48b63.chunk.js",
+    "static/css/main.4d31344a.chunk.css",
+    "static/js/main.55270523.chunk.js"
+  ]
+}
