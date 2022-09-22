@@ -1,0 +1,31 @@
+.root {
+  display: flex;
+  gap: 1rem;
+  position: sticky;
+  top: 0;
+  background: #292904c7;
+  padding: 1rem;
+  box-shadow: 0px 2px 30px rgba(0, 0, 0, 0.1);
+}
+.logo {
+  width: 14rem;
+  img {
+    width: 100%;
+  }
+}
+.nav {
+  ul {
+    display: flex;
+    list-style: none;
+    gap: 1.5rem;
+    color: #fff;
+    font-size: 1.6rem;
+    .active {
+      font-size: 1.6;
+      color: red;
+    }
+    li {
+      cursor: pointer;
+    }
+  }
+}

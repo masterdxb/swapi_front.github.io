@@ -1,0 +1,12 @@
+@import '_variables.scss';
+
+:export {
+  breakpoints: $breakpoints;
+  breakpoint: {
+    xs: $xs;
+    sm: $sm;
+    md: $md;
+    lg: $lg;
+    xl: $xl;
+  }
+}
